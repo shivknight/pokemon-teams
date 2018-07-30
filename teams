@@ -1,3 +1,65 @@
+=== [gen7ou] Mikeymon ===
+
+Venomoth @ Buginium Z  
+Ability: Tinted Lens  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Quiver Dance  
+- Sleep Powder  
+- Sludge Bomb  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Hidden Power [Fire]  
+- Focus Blast  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Taunt  
+- Toxic  
+- Earth Power  
+
+Ferrothorn @ Rocky Helmet  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Power Whip  
+- Knock Off  
+- Spikes  
+
+Garchomp @ Garchompite  
+Ability: Rough Skin  
+EVs: 252 HP / 252 SpA  
+Rash Nature  
+- Earthquake  
+- Draco Meteor  
+- Flamethrower  
+- Outrage  
+
+Thundurus @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Volt Switch  
+- Taunt  
+- Sludge Bomb  
+
+
 === [gen7ou] Slowbro ===
 
 Slowbro-Mega @ Slowbronite  
@@ -17,7 +79,7 @@ Careful Nature
 - Healing Wish  
 - U-turn  
 - Wish  
-- Iron Head  
+- Stealth Rock  
 
 Clefable @ Leftovers  
 Ability: Unaware  
@@ -25,9 +87,9 @@ EVs: 252 HP / 4 SpA / 252 SpD
 Calm Nature  
 IVs: 0 Atk  
 - Heal Bell  
-- Stealth Rock  
-- Toxic  
 - Moonblast  
+- Wish  
+- Protect  
 
 Toxapex @ Black Sludge  
 Ability: Regenerator  
@@ -1033,5 +1095,6 @@ IVs: 0 Atk
 - Thunderbolt  
 - Ice Beam  
 - Focus Blast  
+
 
 
