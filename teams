@@ -72,15 +72,6 @@ IVs: 0 Atk
 - Slack Off  
 - Psyshock  
 
-Jirachi @ Leftovers  
-Ability: Serene Grace  
-EVs: 224 HP / 252 SpD / 32 Spe  
-Careful Nature  
-- Healing Wish  
-- U-turn  
-- Wish  
-- Stealth Rock  
-
 Clefable @ Leftovers  
 Ability: Unaware  
 EVs: 252 HP / 4 SpA / 252 SpD  
@@ -122,6 +113,15 @@ IVs: 0 Atk
 - Focus Blast  
 - Moonblast  
 - Psyshock  
+
+Scizor @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Defog  
+- Pursuit  
 
 
 === [gen7ou] Untitled 17 ===
