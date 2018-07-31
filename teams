@@ -123,57 +123,147 @@ Adamant Nature
 - Defog  
 - Pursuit  
 
+=== [gen7ou] Rain2 ===
 
-=== [gen7ou] Untitled 17 ===
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- U-turn  
+- Scald  
+- Roost  
+- Defog  
 
-Greninja-Ash @ Choice Specs  
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Ice Punch  
+- Stealth Rock  
+
+Zapdos @ Life Orb  
+Ability: Static  
+Shiny: Yes  
+EVs: 252 SpA / 8 SpD / 248 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Volt Switch  
+- Roost  
+- Hidden Power [Ice]  
+
+Scizor @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Knock Off  
+- Pursuit  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 24 SpA / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Moonblast  
+- Surf  
+- Taunt  
+
+Garchomp @ Choice Scarf  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Claw  
+- Outrage  
+- Earthquake  
+- Poison Jab  
+
+
+=== [gen7ou] RainStream ===
+
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- U-turn  
+- Scald  
+- Roost  
+- Defog  
+
+Greninja @ Choice Specs  
 Ability: Battle Bond  
 EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
+Hasty Nature  
 - Hydro Pump  
-- Dark Pulse  
 - Water Shuriken  
+- Dark Pulse  
 - Spikes  
 
-Tapu Lele @ Choice Scarf  
-Ability: Psychic Surge  
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Ice Punch  
+- Stealth Rock  
+
+Zapdos @ Life Orb  
+Ability: Static  
+Shiny: Yes  
+EVs: 252 SpA / 8 SpD / 248 Spe  
+Modest Nature  
 IVs: 0 Atk  
+- Thunder  
+- Volt Switch  
+- Roost  
+- Hidden Power [Ice]  
 
-Tyranitar @ Assault Vest  
-Ability: Sand Stream  
-- Stone Edge  
-- Crunch  
-- Dragon Tail  
-- Fire Fang  
+Keldeo @ Normalium Z  
+Ability: Justified  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Secret Sword  
+- Hydro Pump  
+- Hyper Beam  
 
-Bisharp  
-Ability: Defiant  
-- Sucker Punch  
-- Iron Head  
+Scizor @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
 - Knock Off  
 - Pursuit  
 
 
 === [gen7ou] SMASH!!3 ===
 
-Cloyster @ Normalium Z  
-Ability: Skill Link  
-Shiny: Yes  
-EVs: 252 Atk / 4 SpA / 252 Spe  
-Naive Nature  
-- Shell Smash  
-- Icicle Spear  
-- Hydro Pump  
-- Explosion  
-
-Scizor @ Choice Band  
-Ability: Technician  
-- Bullet Punch  
-- Pursuit  
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
 - U-turn  
+- Roost  
 - Defog  
+- Stealth Rock  
 
-Magnezone @ Life Orb  
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Roost  
+- Bullet Punch  
+- Swords Dance  
+- Bug Bite  
+
+Magnezone @ Assault Vest  
 Ability: Magnet Pull  
 Shiny: Yes  
 EVs: 140 HP / 192 SpA / 176 Spe  
@@ -181,36 +271,36 @@ Modest Nature
 IVs: 0 Atk / 30 SpA / 30 Spe  
 - Volt Switch  
 - Hidden Power [Fire]  
-- Toxic  
+- Thunderbolt  
 - Flash Cannon  
 
-Dragonite @ Lum Berry  
+Dragonite @ Flyinium Z  
 Ability: Multiscale  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  
 - Dragon Dance  
-- Dragon Claw  
-- Earthquake  
+- Fly  
+- Outrage  
 - Extreme Speed  
 
-Tapu Bulu @ Leftovers  
+Tapu Bulu @ Choice Band  
 Ability: Grassy Surge  
-EVs: 112 HP / 252 Atk / 8 SpD / 136 Spe  
+EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
 - Horn Leech  
-- Bulk Up  
-- Rock Tomb  
+- Superpower  
+- Toxic  
 - Wood Hammer  
 
-Aerodactyl-Mega @ Aerodactylite  
-Ability: Pressure  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Adamant Nature  
-- Taunt  
-- Stealth Rock  
-- Earthquake  
-- Aerial Ace  
-
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Secret Sword  
+- Hydro Pump  
+- Scald  
+- Icy Wind  
 
 === [gen7ou] SMASH2 ===
 
@@ -1095,6 +1185,5 @@ IVs: 0 Atk
 - Thunderbolt  
 - Ice Beam  
 - Focus Blast  
-
 
 
