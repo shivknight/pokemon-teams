@@ -1,16 +1,5 @@
 === [gen7ou] Rain ===
 
-Manaphy @ Waterium Z  
-Ability: Hydration  
-Shiny: Yes  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Surf  
-- Ice Beam  
-- Tail Glow  
-- Rest  
-
 Pelipper @ Damp Rock  
 Ability: Drizzle  
 Shiny: Yes  
@@ -19,7 +8,7 @@ Impish Nature
 - Defog  
 - Roost  
 - U-turn  
-- Toxic  
+- Scald  
 
 Swampert @ Swampertite  
 Ability: Damp  
@@ -40,7 +29,7 @@ IVs: 0 Spe
 - Gyro Ball  
 - Stealth Rock  
 
-Tapu Koko @ Electrium Z  
+Tapu Koko @ Fairium Z  
 Ability: Electric Surge  
 EVs: 40 HP / 252 SpA / 216 Spe  
 Timid Nature  
@@ -59,6 +48,15 @@ Adamant Nature
 - Shadow Sneak  
 - Play Rough  
 - Shadow Claw  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 36 SpD / 124 Spe  
+Adamant Nature  
+- Acrobatics  
+- Swords Dance  
+- High Jump Kick  
+- Roost  
 
 === [gen7ou] Y' ===
 
