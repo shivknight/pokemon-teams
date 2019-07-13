@@ -18,16 +18,6 @@ Adamant Nature
 - Shadow Bone  
 - Flare Blitz  
 - Bonemerang  
-- Toxic  
-
-Forretress @ Leftovers  
-Ability: Overcoat  
-EVs: 252 HP / 4 Atk / 252 Def  
-Relaxed Nature  
-IVs: 0 Spe  
-- Volt Switch  
-- Gyro Ball  
-- Spikes  
 - Stealth Rock  
 
 Gyarados @ Gyaradosite  
@@ -39,16 +29,6 @@ Adamant Nature
 - Earthquake  
 - Substitute  
 
-Togekiss @ Life Orb  
-Ability: Serene Grace  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Nasty Plot  
-- Air Slash  
-- Roost  
-- Aura Sphere  
-
 Raikou @ Leftovers  
 Ability: Pressure  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -58,6 +38,24 @@ IVs: 0 Atk
 - Hidden Power [Ice]  
 - Thunderbolt  
 - Substitute  
+
+Tapu Bulu @ Choice Scarf  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
+- Facade  
+
+Muk-Alola @ Assault Vest  
+Ability: Poison Touch  
+EVs: 248 HP / 36 Atk / 28 Def / 192 SpD / 4 Spe  
+Careful Nature  
+- Knock Off  
+- Pursuit  
+- Poison Jab  
+- Rock Slide  
 
 
 === [gen7ou] Rain ===
@@ -1429,5 +1427,8 @@ IVs: 0 Atk
 - Thunderbolt  
 - Ice Beam  
 - Focus Blast  
+
+
+=== [gen7] Untitled 25 ===
 
 
