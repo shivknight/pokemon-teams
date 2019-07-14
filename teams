@@ -22,22 +22,13 @@ Adamant Nature
 
 Gyarados @ Gyaradosite  
 Ability: Intimidate  
+Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Dragon Dance  
 - Crunch  
 - Earthquake  
-- Substitute  
-
-Raikou @ Leftovers  
-Ability: Pressure  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Calm Mind  
-- Hidden Power [Ice]  
-- Thunderbolt  
-- Substitute  
+- Waterfall  
 
 Tapu Bulu @ Choice Scarf  
 Ability: Grassy Surge  
@@ -56,6 +47,16 @@ Careful Nature
 - Pursuit  
 - Poison Jab  
 - Rock Slide  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+EVs: 252 HP / 104 Def / 152 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Recover  
+- Ice Beam  
+- Thunderbolt  
+- Toxic  
 
 
 === [gen7ou] Rain ===
