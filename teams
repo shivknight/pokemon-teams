@@ -1,3 +1,64 @@
+=== [gen7ou] Dibby Offense ===
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 240 HP / 52 Def / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Stealth Rock  
+- Taunt  
+- Will-O-Wisp  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  
+- Substitute  
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Water Shuriken  
+- Dark Pulse  
+- Extrasensory  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 88 HP / 164 Def / 4 SpA / 216 Spe  
+Timid Nature  
+- U-turn  
+- Defog  
+- Knock Off  
+- Hurricane  
+
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 224 Atk / 36 SpD  
+Adamant Nature  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+- Pursuit  
+
+Tapu Bulu @ Choice Band  
+Ability: Grassy Surge  
+Shiny: Yes  
+EVs: 124 HP / 252 Atk / 132 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Horn Leech  
+- Stone Edge  
+- Superpower  
+
+
 === [gen7ou] P Chomp ===
 
 Kommo-o @ Kommonium Z  
@@ -36,7 +97,7 @@ Calm Nature
 IVs: 0 Atk  
 - Recover  
 - Ice Beam  
-- Thunderbolt  
+- Magic Coat  
 - Toxic  
 
 Mawile @ Mawilite  
@@ -819,7 +880,6 @@ IVs: 0 Atk
 
 Greninja @ Choice Specs  
 Ability: Battle Bond  
-Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 - Spikes  
