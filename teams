@@ -10,16 +10,6 @@ IVs: 0 Atk
 - Taunt  
 - Will-O-Wisp  
 
-Kyurem-Black @ Icium Z  
-Ability: Teravolt  
-Shiny: Yes  
-EVs: 252 Atk / 4 SpA / 252 Spe  
-Naive Nature  
-- Ice Beam  
-- Freeze Shock  
-- Fusion Bolt  
-- Substitute  
-
 Greninja @ Choice Specs  
 Ability: Battle Bond  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -56,6 +46,15 @@ Adamant Nature
 - Horn Leech  
 - Stone Edge  
 - Superpower  
+
+Garchomp @ Rockium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Claw  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
 
 
 === [gen7ou] P Chomp ===
@@ -1548,8 +1547,5 @@ IVs: 0 Atk
 - Thunderbolt  
 - Ice Beam  
 - Focus Blast  
-
-
-=== [gen7] Untitled 25 ===
 
 
