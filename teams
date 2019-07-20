@@ -16,13 +16,12 @@ Shiny: Yes
 EVs: 252 Atk / 4 SpA / 252 Spe  
 Naive Nature  
 - Ice Beam  
-- Earth Power  
+- Freeze Shock  
 - Fusion Bolt  
 - Substitute  
 
 Greninja @ Choice Specs  
 Ability: Battle Bond  
-Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 - Hydro Pump  
@@ -880,6 +879,7 @@ IVs: 0 Atk
 
 Greninja @ Choice Specs  
 Ability: Battle Bond  
+Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 - Spikes  
