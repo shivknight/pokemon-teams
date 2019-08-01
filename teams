@@ -5,6 +5,7 @@ Ability: Magnet Pull
 Shiny: Yes  
 EVs: 8 HP / 4 Def / 244 SpA / 252 Spe  
 Timid Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
 - Thunderbolt  
 - Hidden Power [Fire]  
 - Flash Cannon  
@@ -30,15 +31,6 @@ Timid Nature
 - Dazzling Gleam  
 - U-turn  
 
-Weavile @ Choice Band  
-Ability: Pickpocket  
-EVs: 252 Atk / 4 Def / 252 Spe  
-Jolly Nature  
-- Knock Off  
-- Icicle Crash  
-- Ice Shard  
-- Pursuit  
-
 Gyarados @ Gyaradosite  
 Ability: Intimidate  
 EVs: 252 Atk / 4 SpD / 252 Spe  
@@ -48,15 +40,24 @@ Jolly Nature
 - Earthquake  
 - Waterfall  
 
-Bronzong @ Choice Band  
-Ability: Levitate  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Brave Nature  
-IVs: 0 Spe  
-- Trick  
-- Gyro Ball  
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
 - Stealth Rock  
 - Earthquake  
+- Fire Blast  
+- Toxic  
+
+Shaymin @ Normalium Z  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- Celebrate  
+- Seed Flare  
+- Dazzling Gleam  
+- Hidden Power [Fire]  
 
 
 === [gen7ou] Dibby Offense ===
