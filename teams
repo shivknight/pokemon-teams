@@ -11,25 +11,14 @@ IVs: 0 Atk / 30 SpA / 30 Spe
 - Flash Cannon  
 - Volt Switch  
 
-Hawlucha @ Electric Seed  
-Ability: Unburden  
-Shiny: Yes  
-EVs: 96 HP / 252 Atk / 36 SpD / 124 Spe  
-Adamant Nature  
-- Acrobatics  
-- Swords Dance  
-- Drain Punch  
-- Substitute  
-
-Tapu Koko @ Leftovers  
-Ability: Electric Surge  
-Shiny: Yes  
-EVs: 20 HP / 252 SpA / 20 SpD / 216 Spe  
+Hoopa-Unbound @ Choice Specs  
+Ability: Magician  
+EVs: 32 HP / 224 SpA / 252 Spe  
 Timid Nature  
-- Thunderbolt  
-- Defog  
-- Dazzling Gleam  
-- U-turn  
+- Dark Pulse  
+- Psyshock  
+- Focus Blast  
+- Trick  
 
 Gyarados @ Gyaradosite  
 Ability: Intimidate  
@@ -58,6 +47,15 @@ IVs: 1 Atk
 - Seed Flare  
 - Dazzling Gleam  
 - Hidden Power [Fire]  
+
+Crobat @ Black Sludge  
+Ability: Infiltrator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Defog  
+- Roost  
+- Cross Poison  
+- U-turn  
 
 
 === [gen7ou] Dibby Offense ===
