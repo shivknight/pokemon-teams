@@ -1,6 +1,6 @@
 === [gen7ou] Sacre Bleu ===
 
-Magnezone @ Choice Scarf  
+Magnezone @ Choice Specs  
 Ability: Magnet Pull  
 Shiny: Yes  
 EVs: 8 HP / 4 Def / 244 SpA / 252 Spe  
@@ -10,15 +10,6 @@ IVs: 0 Atk / 30 SpA / 30 Spe
 - Hidden Power [Fire]  
 - Flash Cannon  
 - Volt Switch  
-
-Hoopa-Unbound @ Choice Specs  
-Ability: Magician  
-EVs: 32 HP / 224 SpA / 252 Spe  
-Timid Nature  
-- Dark Pulse  
-- Psyshock  
-- Focus Blast  
-- Trick  
 
 Gyarados @ Gyaradosite  
 Ability: Intimidate  
@@ -38,24 +29,35 @@ Jolly Nature
 - Fire Blast  
 - Toxic  
 
-Shaymin @ Normalium Z  
-Ability: Natural Cure  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 1 Atk  
-- Celebrate  
-- Seed Flare  
-- Dazzling Gleam  
-- Hidden Power [Fire]  
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+Shiny: Yes  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Swords Dance  
+- Horn Leech  
+- Superpower  
+- Synthesis  
 
-Crobat @ Black Sludge  
-Ability: Infiltrator  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Shiny: Yes  
+EVs: 248 HP / 220 Def / 40 SpD  
+Bold Nature  
+IVs: 0 Atk  
 - Defog  
+- Moonblast  
+- Nature's Madness  
+- Haze  
+
+Volcarona @ Buginium Z  
+Ability: Flame Body  
+EVs: 248 HP / 112 Def / 148 Spe  
+Timid Nature  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
 - Roost  
-- Cross Poison  
-- U-turn  
 
 
 === [gen7ou] Dibby Offense ===
