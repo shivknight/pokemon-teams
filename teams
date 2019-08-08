@@ -29,16 +29,6 @@ Jolly Nature
 - Fire Blast  
 - Toxic  
 
-Tapu Bulu @ Leftovers  
-Ability: Grassy Surge  
-Shiny: Yes  
-EVs: 248 HP / 8 Def / 252 SpD  
-Careful Nature  
-- Swords Dance  
-- Horn Leech  
-- Superpower  
-- Synthesis  
-
 Tapu Fini @ Leftovers  
 Ability: Misty Surge  
 Shiny: Yes  
@@ -58,6 +48,15 @@ Timid Nature
 - Flamethrower  
 - Bug Buzz  
 - Roost  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Careful Nature  
+- Spikes  
+- Knock Off  
+- Thunder Wave  
+- Leech Seed  
 
 
 === [gen7ou] Dibby Offense ===
