@@ -1,3 +1,65 @@
+=== [gen7ou] Frogmon ===
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Psyshock  
+- Hidden Power [Fire]  
+
+Tyranitar @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Ice Punch  
+- Earthquake  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 240 HP / 52 Def / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Stealth Rock  
+- Taunt  
+- Soft-Boiled  
+
+Ferrothorn @ Chople Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Spikes  
+- Leech Seed  
+- Gyro Ball  
+- Power Whip  
+
+Toxicroak @ Assault Vest  
+Ability: Anticipation  
+EVs: 116 HP / 140 Atk / 252 SpD  
+Adamant Nature  
+- Gunk Shot  
+- Rock Slide  
+- Drain Punch  
+- Knock Off  
+
+Tornadus-Therian @ Flyinium Z  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Heat Wave  
+- U-turn  
+- Defog  
+
+
 === [gen7ou] Sacre Bleu??? ===
 
 Magnezone @ Choice Specs  
@@ -26,6 +88,7 @@ Volcarona @ Buginium Z
 Ability: Flame Body  
 EVs: 248 HP / 112 Def / 148 Spe  
 Timid Nature  
+IVs: 0 Atk  
 - Quiver Dance  
 - Flamethrower  
 - Bug Buzz  
@@ -51,7 +114,7 @@ Sassy Nature
 
 Landorus-Therian (M) @ Aguav Berry  
 Ability: Intimidate  
-EVs: 76 HP / 252 Atk / 180 Spe  
+EVs: 140 HP / 252 Atk / 116 Spe  
 Adamant Nature  
 - Swords Dance  
 - Rock Polish  
