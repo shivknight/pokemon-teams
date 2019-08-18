@@ -11,15 +11,6 @@ IVs: 0 Atk
 - Psyshock  
 - Hidden Power [Fire]  
 
-Tyranitar @ Tyranitarite  
-Ability: Sand Stream  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Dragon Dance  
-- Stone Edge  
-- Ice Punch  
-- Earthquake  
-
 Mew @ Leftovers  
 Ability: Synchronize  
 EVs: 240 HP / 52 Def / 216 Spe  
@@ -38,7 +29,7 @@ IVs: 0 Spe
 - Spikes  
 - Thunder Wave  
 - Gyro Ball  
-- Leech Seed  
+- Knock Off  
 
 Toxicroak @ Assault Vest  
 Ability: Dry Skin  
@@ -47,7 +38,7 @@ Adamant Nature
 - Gunk Shot  
 - Rock Slide  
 - Drain Punch  
-- Knock Off  
+- Sucker Punch  
 
 Tornadus-Therian @ Flyinium Z  
 Ability: Regenerator  
@@ -58,6 +49,15 @@ Timid Nature
 - Heat Wave  
 - U-turn  
 - Defog  
+
+Altaria @ Altarianite  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Body Slam  
+- Heal Bell  
+- Roost  
+- Flamethrower  
 
 
 === [gen7ou] Sacre Bleu??? ===
