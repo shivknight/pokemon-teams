@@ -1,35 +1,14 @@
 === [gen7ou] Frogmon ===
 
-Tapu Lele @ Choice Specs  
+Tapu Lele @ Psychium Z  
 Ability: Psychic Surge  
 Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Psychic  
-- Moonblast  
 - Psyshock  
+- Moonblast  
+- Calm Mind  
 - Hidden Power [Fire]  
-
-Mew @ Leftovers  
-Ability: Synchronize  
-EVs: 240 HP / 52 Def / 216 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Volt Switch  
-- Stealth Rock  
-- Taunt  
-- Soft-Boiled  
-
-Ferrothorn @ Chople Berry  
-Ability: Iron Barbs  
-EVs: 252 HP / 4 Atk / 252 Def  
-Relaxed Nature  
-IVs: 0 Spe  
-- Spikes  
-- Thunder Wave  
-- Gyro Ball  
-- Knock Off  
 
 Toxicroak @ Assault Vest  
 Ability: Dry Skin  
@@ -38,26 +17,47 @@ Adamant Nature
 - Gunk Shot  
 - Rock Slide  
 - Drain Punch  
+- Knock Off  
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 0 Spe  
+- Play Rough  
 - Sucker Punch  
+- Thunder Punch  
+- Fire Fang  
 
-Tornadus-Therian @ Flyinium Z  
-Ability: Regenerator  
-Shiny: Yes  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-- Hurricane  
-- Heat Wave  
-- U-turn  
-- Defog  
-
-Altaria @ Altarianite  
-Ability: Natural Cure  
-EVs: 252 HP / 252 Def / 4 SpD  
-Relaxed Nature  
-- Body Slam  
-- Heal Bell  
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Swords Dance  
 - Roost  
-- Flamethrower  
+- Earthquake  
+- Facade  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Earth Power  
+- Flash Cannon  
+- Lava Plume  
+
+Latias @ Choice Scarf  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Healing Wish  
+- Trick  
 
 
 === [gen7ou] Sacre Bleu??? ===
