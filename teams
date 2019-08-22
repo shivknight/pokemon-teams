@@ -1,14 +1,15 @@
 === [gen7ou] Frogmon ===
 
-Tapu Lele @ Psychium Z  
+Tapu Lele @ Fightinium Z  
 Ability: Psychic Surge  
 Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-- Psyshock  
+IVs: 0 Atk  
+- Psychic  
 - Moonblast  
 - Calm Mind  
-- Hidden Power [Fire]  
+- Focus Blast  
 
 Toxicroak @ Assault Vest  
 Ability: Dry Skin  
@@ -38,7 +39,7 @@ Jolly Nature
 - Earthquake  
 - Facade  
 
-Heatran @ Leftovers  
+Heatran @ Shuca Berry  
 Ability: Flash Fire  
 Shiny: Yes  
 EVs: 4 Def / 252 SpA / 252 Spe  
@@ -47,17 +48,17 @@ IVs: 0 Atk
 - Stealth Rock  
 - Earth Power  
 - Flash Cannon  
-- Lava Plume  
+- Magma Storm  
 
-Latias @ Choice Scarf  
+Rotom-Wash @ Leftovers  
 Ability: Levitate  
-EVs: 4 Def / 252 SpA / 252 Spe  
-Timid Nature  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
 IVs: 0 Atk  
-- Draco Meteor  
-- Psyshock  
-- Healing Wish  
-- Trick  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
 
 
 === [gen7ou] Sacre Bleu??? ===
