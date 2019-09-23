@@ -1,14 +1,4 @@
-=== [gen7] gimmick ===
-
-Medicham-Mega @ Medichamite  
-Ability: Pure Power  
-Shiny: Yes  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- High Jump Kick  
-- Zen Headbutt  
-- Fake Out  
-- Ice Punch  
+=== [gen7ou] gimmick ===
 
 Rotom-Wash @ Choice Scarf  
 Ability: Levitate  
@@ -49,7 +39,7 @@ Naive Nature
 - Substitute  
 - Clanging Scales  
 - Flamethrower  
-- Poison Jab  
+- Close Combat  
 
 Landorus-Therian @ Leftovers  
 Ability: Intimidate  
@@ -59,6 +49,16 @@ Impish Nature
 - Earthquake  
 - Stealth Rock  
 - U-turn  
+
+Manectric @ Manectite  
+Ability: Lightning Rod  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunderbolt  
+- Overheat  
+- Hidden Power [Ice]  
 
 
 === [gen7ou] Frogmon ===
