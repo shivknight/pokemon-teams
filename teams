@@ -1,3 +1,67 @@
+=== [gen7ou] Race Kar ===
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Trick  
+
+Kartana @ Life Orb  
+Ability: Beast Boost  
+Shiny: Yes  
+EVs: 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 19 Atk  
+- Swords Dance  
+- Leaf Blade  
+- Sacred Sword  
+- Knock Off  
+
+Tapu Bulu @ Choice Band  
+Ability: Grassy Surge  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
+- Horn Leech  
+
+Kommo-o @ Kommonium Z  
+Ability: Bulletproof  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Clanging Scales  
+- Flamethrower  
+- Flash Cannon  
+
+Manectric @ Manectite  
+Ability: Lightning Rod  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunderbolt  
+- Overheat  
+- Hidden Power [Ice]  
+
+Mew @ Aguav Berry  
+Ability: Synchronize  
+EVs: 252 HP / 72 SpD / 184 Spe  
+Jolly Nature  
+- U-turn  
+- Taunt  
+- Stealth Rock  
+- Defog  
+
+
 === [gen7ou] gimmick ===
 
 Rotom-Wash @ Choice Scarf  
@@ -34,12 +98,13 @@ Adamant Nature
 
 Kommo-o @ Kommonium Z  
 Ability: Bulletproof  
-EVs: 4 Atk / 252 SpA / 252 Spe  
-Naive Nature  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Timid Nature  
+IVs: 0 Atk  
 - Substitute  
 - Clanging Scales  
 - Flamethrower  
-- Close Combat  
+- Flash Cannon  
 
 Landorus-Therian @ Leftovers  
 Ability: Intimidate  
